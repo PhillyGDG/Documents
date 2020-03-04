@@ -4,12 +4,12 @@ GDG Philly is dedicated to providing a harassment-free environment for everyone.
 
 Attendees violating these rules may be sanctioned or expelled from the event (in some cases, without a refund) at the discretion of organizers. Harassment includes, but is not limited to:
 
-    Offensive verbal comments related to gender, gender identity and expression, age, sexual orientation, disability, physical appearance, race, and religion.
-    Deliberate intimidation, stalking and following.
-    Sexual images in public spaces.
-    Harassing photography or recordings.
-    Sustained disruption of events.
-    Physical contact and unwelcome sexual attention.
+* Offensive verbal comments related to gender, gender identity and expression, age, sexual orientation, disability, physical appearance, race, and religion
+* Deliberate intimidation, stalking and following
+* Sexual images in public spaces
+* Harassing photography or recordings
+* Sustained disruption of events
+* Physical contact and unwelcome sexual attention.
 
 ## Consequences
 
