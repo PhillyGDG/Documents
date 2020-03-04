@@ -1,4 +1,4 @@
-# GDG Philly/Android Alliance Code of Conduct
+# GDG Philly Code of Conduct
 
 GDG Philly is dedicated to providing a harassment-free environment for everyone. We do not tolerate harassment of participants in any form. All attendees, speakers, and volunteers at our events are required to agree with GDG Philly’s Code of Conduct.
 
